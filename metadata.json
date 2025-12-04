@@ -1,0 +1,9 @@
+{
+  "name": "BerisMarket",
+  "description": "Multi-branch minimarket management with AI insights, POS, and Motorist tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
